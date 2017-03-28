@@ -6,7 +6,7 @@ What does this mean? It means that we don't cargo cult and the *only* part of th
 
 Everything is a loose gathering of lightweight processes that can be changed via the [retrospective](retrospectives.md).
 
-- [Standup](agile/standup.md)
+- [Standup](standup.md)
 - [Backlog prioritisation](backlog.md)
 - [Retrospectives](retrospectives.md)
 - [Show and tell](show_and_tell.md)
