@@ -11,3 +11,6 @@ repo. Change what you don't like. Submit it as a pull request.
 ### How we work
 
 You can call it [agile](agile/agile.md), if you must. But please use a small 'a'. 
+
+### Running this repo locally
+This site is built to work with Jekyll, if you'd like to set up a local version please follow the instructions on how to [Set up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
