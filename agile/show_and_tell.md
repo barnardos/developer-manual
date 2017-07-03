@@ -1,6 +1,21 @@
 # Show and tell
 
-A show and tell happens fortnightly, it includes all team members and some key stakeholders.
+A show and tell happens fortnightly. It includes all of us in the team and people who are affected by what we do. 
+
+Ideally, show and tell should take no longer than 30mins.
+
+## Why do we do show and tell?
+
+- They make our progress transparent and visible to those who care about our work 
+- They give us positive feedback and recognition for the hard work we've put in 
+- They help our product owner and interested parties set the direction for what's coming next 
+
+## What is show and tell not for?
+
+It's not:
+
+- a status meeting 
+- a feature request session
 
 ## Format
 
@@ -9,46 +24,44 @@ A show and tell happens fortnightly, it includes all team members and some key s
 3. [Tell our work](#tell-our-work)
 4. [Update on next priorities](#update-on-next-priorities)
 
-The meeting should ideally take no longer than 30mins.
-
 ### Hello
 
 It is really important at the beginning of the meeting to ensure that everyone knows who everyone else is.
+Make it clear who's running show and tell and what the format is so that people understand what's going to happen and 
+when it's OK to ask questions.
 
-Outline who is running the meeting and what the format will be so people understand what's going to happen and when is appropriate to ask questions.
+State that each section has a time limit to make sure we keep focus and best use of everyone's time. If someone wants to
+talk about something outside of the scope of the show and tell, discuss with the product owner first.
 
-It is worth re-iterating the _why_ of show and tell's. We do them because:
-
-- It provides transparency and visibility to stakeholders of our progress.
-- It provides positive feedback to the team and recognition for the hard work they've achieved.
-- It helps the product owner set out the direction/goal of what's coming next and provides opportunity afterwards for the product owner and stakeholders to discuss what's coming next.
-
-It's purpose is not to be a status meeting nor to deteriorate into a feature request session.
-
-State up front that each section has a time limit to ensure focus and best use of everyone's time, if you want to talk about something outside of the scope of the show & tell, discuss with the product owner first.
-
-It's important that both the tech lead and the product owner shield the team from any, well intentioned, but potentially harmful delivery questions or feature requests. eg. that's great but I want feature X, can you just implement it and when can I have it.
-
-It's our job to set clear boundaries and teach everyone involved how to successfully participate in the show and tell.
+Make it clear that feature requests or requests for estimates aren't part of show and tell.
 
 ### Show our work
 
-Where possible/applicable the team member who did the work can show the work, unless they wish to not do so, in which case that is totally ok and it is left to the tech lead to demonstrate the work. If multiple team members have contributed to a feature then ensure that someone is given the chance to show the work who hasn't been represented before.
+Where possible/applicable the team member who did the work can show the work. If they don't want to (which is perfectly
+fine – we all get stage fright sometimes!) the tech lead can do so. If more than one team member has
+contributed to a feature then try to make sure that someone who hasn't demonstrated before has a chance to do so.
 
-Displaying in some way how the product worked before the change and how it works with the change is a really helpful way to show the work. Grabbing a screenshot/making a gif of how it worked before deploying the new code can be a good way of doing this.
+A really helpful way to show changes is to show how something used to work and how it works now. Screenshots of the old
+system are fine for this.
 
-Be mindful of who's involved in the meeting and whether it will be easy to show the work via a video call, as stakeholders won't always be able to come to visit us in the office.
+People who are interested in our work might only be able to see it over video call, so make sure that if this is the
+case that the demonstration will work well with those constraints.
 
 ### Tell our work
 
-Not every piece of work has a thing to show and that's totally ok and still a valid piece of work.
+Not every piece of work has a thing to show. That's totally OK. We can demonstrate the value of our 'behind the scenes' 
+work with clear examples.
 
-In describing a piece of work that was done, try to use clear examples to help everyone understand what was achieved. For example, I've made the test suite twice as fast, it used to take 20 mins to run the tests now it only takes 10 mins. Or if some foundation work was done you can help people understand why that was needed, for example, "by doing this refactoring it paves the way for building upon the now stable code to then do feature x and piece of work y".
+For example: "I've made the test suite twice as fast. It used to take 20 mins to run the tests now it only takes 
+10 mins."
+
+Or: "now we've done this, the way is clear for us to do feature X or piece of work Y".
 
 ### Update on next priorities
 
-Product owner to give a high level overview of what'll be the focus/priority of the next lot of work and tie it into the overall goal/vision.
+The product owner will:
 
-Thank the team and thank everyone for their time.
+- give an overview of what'll be the theme of the next chunk of work and tie it into the overall goal or roadmap.
+- Thank the team for their work, and everyone else for their time
 
-The end. Now people may request to speak to the product owner about anything that they wanted too, everyone else can leave.
+Now people who wish to stay can request to speak to the product owner about anything that isn't part of show and tell. 
