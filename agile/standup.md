@@ -1,23 +1,26 @@
 # Standup
 
-Standup currently happens every day and includes all team members.
+Standup happens every day and includes all team members.
 
 ## Format
 
-The current designated time for standup is at 9.45am. If everyone is present in the office then everyone stands up and follows the format of:
+We currently have standup at 10am. If everyone is present (in the office/via [video call](http://example.com/tbd)) then 
+everyone stands up and follows the format of:
 
-- What did you do yesterday?
-- What are you doing today?
+- What did you do yesterday? 
+- What are you doing today? 
 - Are there any blockers?
 
-If any member of the team is not present in the office then standup is done in the #general slack channel following the same 3 question format.
+If any member of the team is not present in the office then standup is done in the 
+[#team_yay](https://barnardos.slack.com/messages/G46UGLXF1/) slack channel following the same 3 question format.
 
 ## Why
 
-The idea behind a standup is that the team can share what they're working on and provide the opportunity to ask for help or to offer help before picking up something new to work on. It's a reminder that you are not developing in isolation so some of the work you're doing may affect your team mates.
+When we share what we're working on we provide the opportunity to ask for help – or have it offered –
+before picking up new things to work on. It gives us enough context to know how best to help those around us.
 
-Standup is about shared ownership of the work and a self organising/empowered team.
+Standup is about shared ownership and self-organisation.
 
 ## Flexibility
 
-The format of the standup, the frequency of standup and the time of standup are all within the team's power to change as and when it's appropriate. Suggesting any substantial changes to standup is probably best brought up in retrospective so it can be discussed as a team.
+As with everything else, we can change any aspect of standup through [retrospectives](retrospectives.md).
