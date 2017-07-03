@@ -12,7 +12,7 @@ everyone stands up and follows the format of:
 - Are there any blockers?
 
 If any member of the team is not present in the office then standup is done in the 
-[#team_yay](https://barnardos.slack.com/messages/G46UGLXF1/) slack channel following the same 3 question format.
+[#team_yay](https://barnardos.slack.com/messages/C62V1MEUT) slack channel following the same 3 question format.
 
 ## Why
 
