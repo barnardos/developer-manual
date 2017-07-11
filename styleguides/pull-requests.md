@@ -29,9 +29,15 @@ If you are not sure how to do any of this, please feel free to ask for help.
   the frontend, we love screenshots!
 * Github emails the title and description of the PR to those following
   the repo when you raise it. Further changes aren't emailed, so it's worth 
-  spending a bit of time getting it right first time.
+  spending a bit of time getting it right first time
 * Explain or highlight any changes you think are contentious, and any testing 
-  that you've already done.
+  that you've already done
+* If you use fixups (and why wouldn't you? Fixups are a 
+  [wonderful time-saver](https://robots.thoughtbot.com/autosquashing-git-commits))
+  make sure you squash them out of existence before you open the PR –
+  because the comment is necessarily not related to the fix, it takes extra 
+  effort for a reviewer to parse
+  
 
 Note: The canonical description of changes should always be in the individual
 commits - PRs are GitHub-specific, and we would lose that history
@@ -86,7 +92,7 @@ good, we *say so*!).
 
 ### Addressing comments
 
-Any comments flagged as blocking should be addressed. This includes spelling or
+Address any comments flagged as blocking. This includes spelling or
 grammatical errors in documentation.
 
 - If you're changing something minor in an existing commit (eg renaming a
