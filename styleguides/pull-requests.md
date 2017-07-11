@@ -104,3 +104,12 @@ grammatical errors in documentation.
   watchers. You can use the "approve" function in the GitHub review tools  
 - Major refactoring can and should be done in follow-up pull request - it
   is never a blocker
+  
+### Merging a pull request
+
+Once you're certain that there are no blocking comments, merge through Github.
+By default this creates a merge commit, and this is our default (as opposed to
+rebasing onto master, which would create a seamless commit history with no
+evidence of the feature branch). If you're offline and merging manually, use
+`git merge --no-ff` to get the same behaviour and preserve evidence that the
+feature branch existed.

@@ -95,3 +95,5 @@ also increase the chance that the commit can be useful on its own. This is
 frequently useful when you're working in parallel with another developer on
 a separate branch and you both need early access to the same work. It makes
 cherry-picking much easier.
+
+See also [merging](pull-requests.md#merging-a-pull-request)
