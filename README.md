@@ -12,7 +12,13 @@ repo. Change what you don't like. Submit it as a pull request.
 
 You can call it [agile](agile/index.md), if you must. But please use a small 'a'. 
 
-### Running this repo locally
+### Some [styleguides](styleguides/index.md)
+
+We work in a variety of languages and with a variety of tools. These are [style guides](styleguides/index.md) 
+for languages, and also for things like commit messages and pull requests.
+
+
+## Running this repo locally
 This site is built to work with [Jekyll](https://jekyllrb.com/). If you'd like to set up a local version please follow the instructions on how 
 to 
 [Set up your GitHub Pages site locally with Jekyll](
