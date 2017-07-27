@@ -97,3 +97,8 @@ a separate branch and you both need early access to the same work. It makes
 cherry-picking much easier.
 
 See also [merging](pull-requests.md#merging-a-pull-request)
+
+## Pushes to master
+
+Pushes to master should be for absolute emergency hotfixes only, and usually 
+with the agreement of one or more other members of the team.
