@@ -89,6 +89,17 @@ good, we *say so*!).
   page. Github loses them if you rebase
 - Ensure that any relevant documentation (`README` files, things in the `doc`
   folder) is up to date with the changes
+  
+#### What if we're reviewing our own work?
+
+This happens a bit in small teams – you pair on a thing and then there's no-one
+to review it who hasn't already worked on it. Sometimes reviewing your own work
+is unavoidable, but in these circumstances, open the PR, then walk away for a day.
+
+When you both come back to review the PR, you'll probably notice things that
+weren't obvious when you opened it. The time and space away from it is 
+tremendously useful for avoiding merging things that you notice later aren't
+quite right.  
 
 ### Addressing comments
 
