@@ -1,25 +1,31 @@
-# [devs-manual](https://barnardos.github.io/devs-manual/)
-_As a developer, I want to read about how we do things, so that those things can get done_
+# devs-manual
 
-## What's this for?
+We use [agile](https://en.wikipedia.org/wiki/Agile_software_development) tools and techniques to:
 
-This repo's primarily for you. You there, a developer, or someone who's part of a team that makes stuff. This is your 
-repo. Change what you don't like. Submit it as a pull request. 
+* self-organise and plan
+* communicate (within the team and with the rest of the organisation)
+* continuously improve the way we work
 
-## What's here?
+We follow a loose gathering of agile processes:
 
-### How we work
+* [standups](standup.md)
+* [retrospectives](retrospectives.md)
+* [show and tells](show_and_tell.md)
 
-You can call it [agile](agile/index.md), if you must. But please use a small 'a'. 
+We can change any aspect of these lightweight processes through retrospectives.
 
-### Some [styleguides](styleguides/index.md)
+## Contributing code
 
-We work in a variety of languages and with a variety of tools. These are [style guides](styleguides/index.md) 
-for languages, and also for things like commit messages and pull requests.
+We use [GitHub](https://github.com/) to collaborate when writing code. We follow [GitHub Flow](https://guides.github.com/introduction/flow/), while expanding on:
 
+* [Branches](branches.md)
+* [Commits](commits.md)
+* [Pull requests](pull-requests.md)
 
 ## Running this repo locally
-This site is built to work with [Jekyll](https://jekyllrb.com/). If you'd like to set up a local version please follow the instructions on how 
-to 
-[Set up your GitHub Pages site locally with Jekyll](
-    https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+This site is built to work with [Jekyll](https://jekyllrb.com/). If you'd like to set up a local version please follow the instructions on how to [Set up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+---
+
+If you are not sure how to do any of the things in this manual, please feel free to ask for help. You can change any aspect of this manual through a pull request.
