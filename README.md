@@ -9,7 +9,7 @@ We use [agile](https://en.wikipedia.org/wiki/Agile_software_development) tools a
 We follow a loose gathering of agile processes:
 
 * [standups](standup.md)
-* [retrospectives](retrospectives.md)
+* [retrospectives](retrospective.md)
 * [show and tells](show_and_tell.md)
 
 We can change any aspect of these lightweight processes through retrospectives.
@@ -21,10 +21,6 @@ We use [GitHub](https://github.com/) to collaborate when writing code. We follow
 * [Branches](branches.md)
 * [Commits](commits.md)
 * [Pull requests](pull-requests.md)
-
-## Running this repo locally
-
-This site is built to work with [Jekyll](https://jekyllrb.com/). If you'd like to set up a local version please follow the instructions on how to [Set up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 
 ---
 
