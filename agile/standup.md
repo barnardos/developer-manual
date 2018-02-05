@@ -1,26 +1,22 @@
 # Standup
 
-Standup happens every day and includes all team members.
+A standup is a daily meeting to share what we're working on. It provides:
 
-## Format
+* the opportunity to ask for help – or have it offered
+* enough context to know how best to help those around us
+* a sense of shared ownership
+* the means to self-organise
 
-We currently have standup at 10am. If everyone is present (in the office/via [video call](http://example.com/tbd)) then 
-everyone stands up and follows the format of:
+## The format of a standup
 
-- What did you do yesterday? 
-- What are you doing today? 
-- Are there any blockers?
+Everyone, in turn, answers the following three questions:
 
-If any member of the team is not present in the office then standup is done in the 
-[#team_yay](https://barnardos.slack.com/messages/C62V1MEUT) slack channel following the same 3 question format.
+* what did you do yesterday?
+* what are you doing today?
+* are there any blockers (something that prevents you doing your work)?
 
-## Why
+That person then nominates the next person to go.
 
-When we share what we're working on we provide the opportunity to ask for help – or have it offered –
-before picking up new things to work on. It gives us enough context to know how best to help those around us.
+A standup should last no longer than 15 minutes.
 
-Standup is about shared ownership and self-organisation.
-
-## Flexibility
-
-As with everything else, we can change any aspect of standup through [retrospectives](retrospectives.md).
+If any member of the team is not present (in the office or via video call) then a standup is done in the [#team_yay](https://barnardos.slack.com/messages/C62V1MEUT) slack channel and follows the same 3 question format.
