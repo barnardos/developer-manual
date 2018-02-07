@@ -78,6 +78,10 @@ This is a non-exhaustive list of some of the tools that we use within the digita
 
 > Prettier can be run in your editor on-save, in a pre-commit hook, or in <abbr title="Continuous Integration">CI</abbr> environments to ensure your codebase has a consistent style without devs ever having to think about it.
 
+[Puppeteer](https://github.com/GoogleChrome/puppeteer)
+
+> Puppeteer is a Node library which provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome or Chromium.
+
 [React](https://reactjs.org/)
 
 > React is a JavaScript library for building user interfaces. It is maintained by Facebook, Instagram and a community of individual developers and corporations.
