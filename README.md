@@ -1,4 +1,4 @@
-# devs-manual
+# developer-manual
 
 We use [agile](https://en.wikipedia.org/wiki/Agile_software_development) tools and techniques to:
 
