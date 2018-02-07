@@ -22,6 +22,13 @@ We use [GitHub](https://github.com/) to collaborate when writing code. We follow
 * [Commits](commits.md)
 * [Pull requests](pull-requests.md)
 
+## Tools and methodologies
+
+Within the digital team we use the following:
+
+* [tools](tools.md)
+* [methodologies](methodologies)
+
 ---
 
 If you are not sure how to do any of the things in this manual, please feel free to ask for help. You can change any aspect of this manual through a pull request.
