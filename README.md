@@ -27,7 +27,7 @@ We use [GitHub](https://github.com/) to collaborate when writing code. We follow
 Within the digital team we use the following:
 
 * [tools](tools.md)
-* [methodologies](methodologies)
+* [methodologies](methodologies.md)
 
 ---
 
