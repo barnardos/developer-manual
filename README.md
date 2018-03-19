@@ -21,6 +21,7 @@ We use [GitHub](https://github.com/) to collaborate when writing code. We follow
 * [Branches](branches.md)
 * [Commits](commits.md)
 * [Pull requests](pull-requests.md)
+* [Team management](team-management.md)
 
 ## Tools and methodologies
 
