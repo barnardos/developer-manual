@@ -23,6 +23,19 @@ We use [GitHub](https://github.com/) to collaborate when writing code. We follow
 * [Pull requests](pull-requests.md)
 * [Team management](team-management.md)
 
+## Deploying code
+
+We use:
+
+* [Netlify](https://www.netlify.com/) for static sites
+* [Heroku](https://heroku.com) for sites with a backend code requirement
+
+Ask a member of the team if you need access to these services.
+
+To keep deployments consistent we follow:
+
+* [Heroku setup guide](heroku_setup.md)
+
 ## Tools and methodologies
 
 Within the digital team we use the following:
