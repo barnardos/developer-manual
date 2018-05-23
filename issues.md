@@ -10,6 +10,16 @@ When creating a new issue, you should:
 
 If known at the time, you can also assign the appropriate people to the issue.
 
+## How we write our issues
+
+An issue is considered ready to be actioned when it has:
+
+* a user story / job story
+* acceptance criteria
+* relevant links
+
+These steps are covered in detail in our [team-handbook](https://barnardos.github.io/team-handbook/trello-cards).
+
 ## Making labels consistent across repos
 
 You should update the labels when creating a new repo.
