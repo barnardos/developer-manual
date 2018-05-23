@@ -20,6 +20,8 @@ An issue is considered ready to be actioned when it has:
 
 These steps are covered in detail in our [team-handbook](https://barnardos.github.io/team-handbook/trello-cards).
 
+Here is [an example of a well written issue](https://github.com/barnardos/design-system/issues/118).
+
 ## Making labels consistent across repos
 
 You should update the labels when creating a new repo.
