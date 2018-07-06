@@ -23,6 +23,7 @@ We use [GitHub](https://github.com/) to collaborate when writing code. We follow
 * [Issues](issues.md)
 * [Pull requests](pull-requests.md)
 * [Team management](team-management.md)
+* [Repositories](repositories.md)
 
 ## Deploying code
 
