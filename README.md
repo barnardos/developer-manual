@@ -38,6 +38,10 @@ To keep deployments consistent we follow:
 
 * [Heroku setup guide](heroku_setup.md)
 
+When we need a unique URL for our project we follow:
+
+* [Short URL setup guide](short_url.md)
+
 ## Tools and methodologies
 
 Within the digital team we use the following:
