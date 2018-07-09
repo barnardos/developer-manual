@@ -1,9 +1,10 @@
-# Creating short URLS
+# Creating short URLs
 
-For projects we're working on that are being shared internally or externally we should use a short URL to make it easier for people to access the site.
+Short URLs help people access our projects. You should use them for projects that are shared internally or externally.
 
-For internal projects or services (like the live-feed to show and tells, for example) we have been using dr.barnar.do (because that joke works internally and is "cute").
+You should use:
 
-For projects that also are externally facing, e.g. might end up as part of the website, we are using barnar.do/project-name
+* http://dr.barnar.do for internal projects or services
+* http://barnar.do for external projects
 
-The login details for the [URL shortener service](http://app.rebrandly.com/) is in the 1Password shared vault.
+You'll find the login details for the [URL shortener service](http://app.rebrandly.com/) in the 1Password vault.
