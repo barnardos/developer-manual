@@ -49,6 +49,10 @@ Within the digital team we use the following:
 * [tools](tools.md)
 * [methodologies](methodologies.md)
 
+## Removing access
+
+When someone leaves the team, [we remove their access to the tools we use](removing_access.md).
+
 ---
 
 If you are not sure how to do any of the things in this manual, please feel free to ask for help. You can change any aspect of this manual through a pull request.
