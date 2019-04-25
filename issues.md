@@ -31,65 +31,54 @@ You should update the labels when creating a new repo.
 ```json
 [
   {
-    "name": "estimate: 1",
-    "color": "c5def5"
+    "name": "BE",
+    "color": "#837ccc"
   },
   {
-    "name": "estimate: 2",
-    "color": "c5def5"
+    "name": "FE",
+    "color": "#f99dc7"
   },
   {
-    "name": "estimate: 3",
-    "color": "c5def5"
+    "name": "UX",
+    "color": "#d6b833"
   },
   {
-    "name": "estimate: 5",
-    "color": "c5def5"
-  },
-  {
-    "name": "estimate: 8",
-    "color": "c5def5"
-  },
-  {
-    "name": "estimate: 13",
-    "color": "c5def5"
-  },
-  {
-    "name": "status: blocked",
+    "name": "Blocked",
     "color": "f9d0c4"
   },
   {
-    "name": "status: blocker",
+    "name": "Blocker",
     "color": "d4c5f9"
   },
   {
-    "name": "type: bug",
+    "name": "Bug",
     "color": "ee0701"
   },
   {
-    "name": "type: chore",
+    "name": "Chore",
     "color": "5551A8"
   },
   {
-    "name": "type: refactor",
+    "name": "Refactor",
     "color": "1d76db"
   },
   {
-    "name": "type: research",
+    "name": "Research",
     "color": "CA2BAF"
   },
   {
-    "name": "type: spike",
+    "name": "Spike",
     "color": "006b75"
   },
   {
-    "name": "type: story",
+    "name": "Story",
     "color": "0e8a16"
   }
 ]
+
 ```
 
-2.  Create a [GitHub access token](https://github.com/settings/tokens).
+2.  Click on `Generate new token` here: https://github.com/settings/tokens. Add a token description and tick repo (which will tick four boxes for you). This will generate an access token, take a note of it in 1password as you will only be able to see it once.
 3.  Do a dry-run using `npx github-label-sync --access-token xxxxxx --labels labels.json --dry-run barnardos/yyyyyy` but:
     * replace `xxxxxx` with your access token
     * replace `yyyyyy` with the repo name
