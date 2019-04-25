@@ -31,12 +31,16 @@ You should update the labels when creating a new repo.
 ```json
 [
   {
-    "name": "BE",
+    "name": "Backend",
     "color": "837ccc"
   },
   {
-    "name": "FE",
+    "name": "Frontend",
     "color": "f99dc7"
+  },
+  {
+    "name": "Good first issue",
+    "color": "7057ff"
   },
   {
     "name": "UX",
