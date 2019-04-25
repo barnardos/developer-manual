@@ -32,15 +32,15 @@ You should update the labels when creating a new repo.
 [
   {
     "name": "BE",
-    "color": "#837ccc"
+    "color": "837ccc"
   },
   {
     "name": "FE",
-    "color": "#f99dc7"
+    "color": "f99dc7"
   },
   {
     "name": "UX",
-    "color": "#d6b833"
+    "color": "d6b833"
   },
   {
     "name": "Blocked",
