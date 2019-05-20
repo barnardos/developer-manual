@@ -3,7 +3,7 @@
 Open your terminal and run the commands below:
 
 
-```bash
+```console
 brew install wget
 wget "https://raw.githubusercontent.com/barnardos/developer-manual/master/locationchanger"
 wget "https://raw.githubusercontent.com/barnardos/developer-manual/master/LocationChanger.plist"
