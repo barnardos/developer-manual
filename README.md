@@ -49,6 +49,7 @@ Within the digital team we use the following:
 * [tools](tools.md)
 * [methodologies](methodologies.md)
 * [dependabot setup instructions](dependabot_setup.md)
+* [dependabot PR review instructions](dependabot_pr_review.md)
 * [wifi-location-changer setup instructions](wifi-location-changer.md)
 
 ## Removing access

@@ -13,7 +13,7 @@ The repo should now be in the list on [https://app.dependabot.com/accounts/barna
 Click on the settings cog to check them, usually the default one should be fine but double check that:
 
 * Daily updates
-* Directory is ``/``
+* Directory is `/`
 * Only top-level dependencies (and security patches for subdependencies)
 * Update strategy is set to Auto
 * Automatic PR merging dropdowns are both set to None
