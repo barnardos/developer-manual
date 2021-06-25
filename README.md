@@ -59,6 +59,12 @@ Within the digital team we use the following:
 
 When someone leaves the team, [we remove their access to the tools we use](removing_access.md).
 
+## Setting up developer environment
+
+Rough step by step guide on how to setup you dev environment.
+
+* [Dev guide](dev_setup.md)
+
 ---
 
 If you are not sure how to do any of the things in this manual, please feel free to ask for help. You can change any aspect of this manual through a pull request.
