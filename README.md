@@ -27,7 +27,7 @@ We use [GitHub](https://github.com/) to collaborate when writing code. We follow
 
 ## Deploying code
 
-We use:
+for Donate and Cookie Banner:
 
 * [Netlify](https://www.netlify.com/) for static sites
 * [Heroku](https://heroku.com) for sites with a backend code requirement
@@ -41,6 +41,9 @@ To keep deployments consistent we follow:
 When we need a unique URL for our project we follow:
 
 * [Short URL setup guide](short_url.md)
+
+for Website:
+* Github, Bitbucket: [wiki](https://github.com/barnardos/website/wiki/Local-Development)
 
 ## Tools and methodologies
 
